@@ -1,0 +1,16 @@
+{
+  "python": "3.12.14",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "dependencies": {
+    "numpy": "1.26.4",
+    "scipy": "1.17.1",
+    "scikit-learn": "1.9.1"
+  },
+  "source_sha256": {
+    "__init__.py": "cb6bdb1ccbe21e7dd65874f57d0e8c20ea23ef662d80cf3423ebbb5e7c9321ec",
+    "cli.py": "1dd6f1de3269c6a5c2e5bf2ce983611de85be5884c1b5e08be69d4f928a87665",
+    "core.py": "30e082a273258a464bf6067c5e51fcfa84b219dd88c6ddc83cc20353e657ced2",
+    "provenance.py": "c54828c2f5d6db1291ca0155405f7980336265f72b1c6efcbebef3591d687454"
+  },
+  "note": "Seeded synthetic demo; no real-world performance claim"
+}

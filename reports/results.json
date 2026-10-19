@@ -1,0 +1,75 @@
+{
+  "data": "SYNTHETIC; device-ring mechanism intentionally favours useful graph information",
+  "train_rows": 7820,
+  "validation_rows": 1820,
+  "test_rows": 4000,
+  "test_prevalence": 0.03875,
+  "label_delay": 180,
+  "train_max_label_available": 7999,
+  "validation_max_label_available": 9999,
+  "test_first_time": 10000,
+  "policy": "Review top 5% of transactions in each retrospective window; a batch budget, not a real-time threshold",
+  "models": {
+    "rules": {
+      "validation": {
+        "average_precision": 0.05427566585513037,
+        "roc_auc": 0.5679836734693878,
+        "review_capacity": 91,
+        "caught": 6,
+        "false_positives": 85,
+        "precision_at_capacity": 0.06593406593406594,
+        "recall_at_capacity": 0.08571428571428572
+      },
+      "test": {
+        "average_precision": 0.04659896787503927,
+        "roc_auc": 0.5412290784009397,
+        "review_capacity": 200,
+        "caught": 10,
+        "false_positives": 190,
+        "precision_at_capacity": 0.05,
+        "recall_at_capacity": 0.06451612903225806
+      }
+    },
+    "tabular": {
+      "validation": {
+        "average_precision": 0.05302325148316821,
+        "roc_auc": 0.5090938775510204,
+        "review_capacity": 91,
+        "caught": 4,
+        "false_positives": 87,
+        "precision_at_capacity": 0.04395604395604396,
+        "recall_at_capacity": 0.05714285714285714
+      },
+      "test": {
+        "average_precision": 0.050221824571680194,
+        "roc_auc": 0.552061747556525,
+        "review_capacity": 200,
+        "caught": 12,
+        "false_positives": 188,
+        "precision_at_capacity": 0.06,
+        "recall_at_capacity": 0.07741935483870968
+      }
+    },
+    "graph": {
+      "validation": {
+        "average_precision": 0.4237068506617056,
+        "roc_auc": 0.9099836734693878,
+        "review_capacity": 91,
+        "caught": 41,
+        "false_positives": 50,
+        "precision_at_capacity": 0.45054945054945056,
+        "recall_at_capacity": 0.5857142857142857
+      },
+      "test": {
+        "average_precision": 0.43783180993372567,
+        "roc_auc": 0.8841486639540249,
+        "review_capacity": 200,
+        "caught": 93,
+        "false_positives": 107,
+        "precision_at_capacity": 0.465,
+        "recall_at_capacity": 0.6
+      }
+    }
+  },
+  "validation_selected": "graph"
+}

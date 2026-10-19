@@ -1,0 +1,242 @@
+[
+  {
+    "event_index": 11014,
+    "account": 680,
+    "device": 900,
+    "score": 0.7148900838856795,
+    "evidence": {
+      "prior_shared_accounts": 15,
+      "matured_fraud_on_device": 66,
+      "prior_account_events": 10
+    },
+    "observed_label": 0
+  },
+  {
+    "event_index": 12551,
+    "account": 365,
+    "device": 901,
+    "score": 0.7087025676031444,
+    "evidence": {
+      "prior_shared_accounts": 16,
+      "matured_fraud_on_device": 97,
+      "prior_account_events": 11
+    },
+    "observed_label": 0
+  },
+  {
+    "event_index": 10779,
+    "account": 400,
+    "device": 900,
+    "score": 0.6966914483376878,
+    "evidence": {
+      "prior_shared_accounts": 15,
+      "matured_fraud_on_device": 62,
+      "prior_account_events": 9
+    },
+    "observed_label": 0
+  },
+  {
+    "event_index": 10682,
+    "account": 680,
+    "device": 900,
+    "score": 0.6956768507773737,
+    "evidence": {
+      "prior_shared_accounts": 15,
+      "matured_fraud_on_device": 61,
+      "prior_account_events": 8
+    },
+    "observed_label": 1
+  },
+  {
+    "event_index": 11021,
+    "account": 780,
+    "device": 900,
+    "score": 0.6945605287073633,
+    "evidence": {
+      "prior_shared_accounts": 15,
+      "matured_fraud_on_device": 66,
+      "prior_account_events": 7
+    },
+    "observed_label": 1
+  },
+  {
+    "event_index": 12358,
+    "account": 33,
+    "device": 901,
+    "score": 0.693799515811799,
+    "evidence": {
+      "prior_shared_accounts": 16,
+      "matured_fraud_on_device": 94,
+      "prior_account_events": 12
+    },
+    "observed_label": 1
+  },
+  {
+    "event_index": 11812,
+    "account": 201,
+    "device": 901,
+    "score": 0.6681648547768929,
+    "evidence": {
+      "prior_shared_accounts": 16,
+      "matured_fraud_on_device": 89,
+      "prior_account_events": 9
+    },
+    "observed_label": 0
+  },
+  {
+    "event_index": 10905,
+    "account": 444,
+    "device": 900,
+    "score": 0.6640927791892052,
+    "evidence": {
+      "prior_shared_accounts": 15,
+      "matured_fraud_on_device": 65,
+      "prior_account_events": 9
+    },
+    "observed_label": 0
+  },
+  {
+    "event_index": 10181,
+    "account": 629,
+    "device": 901,
+    "score": 0.6510922950763862,
+    "evidence": {
+      "prior_shared_accounts": 16,
+      "matured_fraud_on_device": 79,
+      "prior_account_events": 9
+    },
+    "observed_label": 0
+  },
+  {
+    "event_index": 10485,
+    "account": 606,
+    "device": 902,
+    "score": 0.650414484934729,
+    "evidence": {
+      "prior_shared_accounts": 16,
+      "matured_fraud_on_device": 95,
+      "prior_account_events": 12
+    },
+    "observed_label": 1
+  },
+  {
+    "event_index": 12181,
+    "account": 960,
+    "device": 900,
+    "score": 0.649911314451454,
+    "evidence": {
+      "prior_shared_accounts": 15,
+      "matured_fraud_on_device": 75,
+      "prior_account_events": 13
+    },
+    "observed_label": 1
+  },
+  {
+    "event_index": 11736,
+    "account": 86,
+    "device": 902,
+    "score": 0.6359419650357929,
+    "evidence": {
+      "prior_shared_accounts": 16,
+      "matured_fraud_on_device": 106,
+      "prior_account_events": 6
+    },
+    "observed_label": 1
+  },
+  {
+    "event_index": 11934,
+    "account": 355,
+    "device": 903,
+    "score": 0.6304617445256275,
+    "evidence": {
+      "prior_shared_accounts": 18,
+      "matured_fraud_on_device": 99,
+      "prior_account_events": 8
+    },
+    "observed_label": 1
+  },
+  {
+    "event_index": 10854,
+    "account": 524,
+    "device": 900,
+    "score": 0.6297238736913733,
+    "evidence": {
+      "prior_shared_accounts": 15,
+      "matured_fraud_on_device": 62,
+      "prior_account_events": 8
+    },
+    "observed_label": 0
+  },
+  {
+    "event_index": 13934,
+    "account": 365,
+    "device": 901,
+    "score": 0.6292038254490052,
+    "evidence": {
+      "prior_shared_accounts": 16,
+      "matured_fraud_on_device": 113,
+      "prior_account_events": 17
+    },
+    "observed_label": 1
+  },
+  {
+    "event_index": 12328,
+    "account": 161,
+    "device": 901,
+    "score": 0.6249473044107638,
+    "evidence": {
+      "prior_shared_accounts": 16,
+      "matured_fraud_on_device": 93,
+      "prior_account_events": 10
+    },
+    "observed_label": 0
+  },
+  {
+    "event_index": 11107,
+    "account": 268,
+    "device": 900,
+    "score": 0.6230201040761726,
+    "evidence": {
+      "prior_shared_accounts": 15,
+      "matured_fraud_on_device": 66,
+      "prior_account_events": 9
+    },
+    "observed_label": 1
+  },
+  {
+    "event_index": 10701,
+    "account": 400,
+    "device": 900,
+    "score": 0.6198664505551326,
+    "evidence": {
+      "prior_shared_accounts": 15,
+      "matured_fraud_on_device": 61,
+      "prior_account_events": 8
+    },
+    "observed_label": 1
+  },
+  {
+    "event_index": 11707,
+    "account": 174,
+    "device": 902,
+    "score": 0.6185168354617688,
+    "evidence": {
+      "prior_shared_accounts": 16,
+      "matured_fraud_on_device": 105,
+      "prior_account_events": 8
+    },
+    "observed_label": 1
+  },
+  {
+    "event_index": 12999,
+    "account": 86,
+    "device": 902,
+    "score": 0.6176442369883051,
+    "evidence": {
+      "prior_shared_accounts": 16,
+      "matured_fraud_on_device": 118,
+      "prior_account_events": 9
+    },
+    "observed_label": 1
+  }
+]
