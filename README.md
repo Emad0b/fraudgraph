@@ -1,5 +1,7 @@
 # FraudGraph
 
+FraudGraph helps a fraud team decide which transactions to investigate first when it can only review a limited number. Use it to test whether past relationships between transactions and devices improve the shortlist.
+
 Point-in-time graph features and capacity-constrained fraud investigation.
 
 Rank suspicious transactions for a limited investigation team, using historical relationships without leaking future fraud labels.
